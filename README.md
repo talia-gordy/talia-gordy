@@ -1,6 +1,6 @@
 #  👋 Hi, I'm Talia!
 
-# 👩🏽‍🎓 A Computer Science student at Clemson University, South Carolina 2025-2029.<br>✨ Passionate about full stack development and building efficient projects that make a difference. <br>📂 Currently solidifying skills in backend and creating user-interactive apps and sites.<br>
+👩🏽‍🎓 A Computer Science student at Clemson University, South Carolina 2025-2029.<br>✨ Passionate about full stack development and building efficient projects that make a difference. <br>📂 Currently solidifying skills in backend and creating user-interactive apps and sites.<br>
 
 
 ## 🌐 Socials:
