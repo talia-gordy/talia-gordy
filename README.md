@@ -1,6 +1,6 @@
 
 # 👋 Hi, I'm Talia from Utah! 
-👩🏽‍🎓 Current computer Science student at Clemson University, South Carolina 2025-2029. <br>🌷 Passionate on developing and designing ML algorithms and preforming statistical analysis to interpret data and improve ML systems. <br>✨ I am always learning new things! <br>
+👩🏽‍🎓 Current computer Science student at [Clemson University](https://www.clemson.edu/), South Carolina 2025-2029. <br>🌷 Passionate on developing and designing ML algorithms and preforming statistical analysis to interpret data and improve ML systems. <br>✨ I am always learning new things! <br>
 
 
 ## 🌐 Socials:
