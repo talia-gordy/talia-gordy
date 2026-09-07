@@ -1,6 +1,6 @@
 # 👋🏾 Hi, I’m Talia  
 
-👩🏾‍🎓 Current Computer Sicence student at [Clemson University](clemson.edu), South Carolina, 2025-2029.<br>
+👩🏾‍🎓 Current Computer Sicence student at [Clemson University](https://www.clemson.edu/), South Carolina, 2025-2029.<br>
 💻 Aspiring Machine Learning Engineer passionate about building intelligent systems that solve real‑world problems.<br>
 🌻 Currently sharpening my skills in Python, deep learning, and data engineering, while working on projects that explore model performance, automation, and scalable ML workflows.<br>
 ⭐ I’m always experimenting, learning, and pushing my understanding of how data becomes insight.
